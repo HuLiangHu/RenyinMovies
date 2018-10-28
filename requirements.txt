@@ -1,0 +1,9 @@
+pymysql
+lxml
+scrapy
+requests
+FontTools
+selenium
+execjs
+urllib
+ssl

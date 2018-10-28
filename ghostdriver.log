@@ -1,0 +1,45 @@
+[INFO  - 2018-08-31T09:59:49.152Z] GhostDriver - Main - running on port 50722
+[INFO  - 2018-08-31T09:59:49.680Z] Session [99360990-ad04-11e8-99d0-d7dd4fb15c5c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-08-31T09:59:49.680Z] Session [99360990-ad04-11e8-99d0-d7dd4fb15c5c] - page.customHeaders:  - {}
+[INFO  - 2018-08-31T09:59:49.680Z] Session [99360990-ad04-11e8-99d0-d7dd4fb15c5c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-08-31T09:59:49.680Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 99360990-ad04-11e8-99d0-d7dd4fb15c5c
+[ERROR - 2018-08-31T09:59:59.552Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709599469
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:00.468Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709600399
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:01.222Z] Session [99360990-ad04-11e8-99d0-d7dd4fb15c5c] - page.onError - msg: TypeError: undefined is not an object (evaluating 'navigator.geolocation.getCurrentPosition')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:01.222Z] Session [99360990-ad04-11e8-99d0-d7dd4fb15c5c] - page.onError - stack:
+  t (https://h5.m.taopiaopiao.com/app/moviemain/mods/index.js?v=1535541633253:11)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:01.652Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709601600
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:02.484Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709602461
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:03.293Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709603275
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:04.412Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709604384
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:05.298Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709605279
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:06.165Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709606134
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:07.018Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709606998
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:07.899Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709607879
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-08-31T10:00:08.866Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1535709608841
+
+  phantomjs://platform/console++.js:263 in error
